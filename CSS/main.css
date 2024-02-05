@@ -9,3 +9,18 @@
     background: -webkit-linear-gradient(to right, #C6426E, #642873);
     background: linear-gradient(to right, #C6426E, #642873);
 }
+
+
+a
+{
+    color: greenyellow;
+    text-decoration: rebeccapurple;
+
+}
+
+.title
+{
+    color: rgb(54, 47, 255);
+    text-decoration: rebeccapurple;
+    text-transform: capitalize;
+}
